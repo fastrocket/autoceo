@@ -1,0 +1,2 @@
+# save this as '.env'
+OPENAI_API_KEY="YOUR_API_KEY"
